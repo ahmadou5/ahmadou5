@@ -14,7 +14,7 @@ i take code as a hobby, !drink Coffee , i love VsCode
 * 🤝  I'm open to collaborating on Open source, Web3 Projects
 * ⚡  i still don't know how to center a div tell no one.
 
-<a href="https://www.twitter.com/4hmadou5" target="_blank" rel="noreferrer"><img
+<a href="https://www.twitter.com/4hmadou_5" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/4hmadou5?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/ahmadou5" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ahmadou5?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>

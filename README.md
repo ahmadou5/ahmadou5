@@ -1,13 +1,13 @@
 Hi 👋 My name is Ahmad Auwal
 ============================
 
-Web3 Developer
+Solidity Blockchain Developer
 --------------
 
 i take code as a hobby, !drink Coffee , i love VsCode
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Ahmadou\`s Portfolio](http://dev-ahmadou.netlify.app)
+* 🖥️  See my portfolio at [Ahmadou\`s Portfolio](http://ahmadou.vercel.app)
 * ✉️  You can contact me at [ahmadlasauwal@gmail.com](mailto:ahmadlasauwal@gmail.com)
 * 🚀  I'm currently working on [PizzaDao](http://dev-Ahmadou.netlify.app)
 * 🧠  I'm learning Typescript,Nextjs

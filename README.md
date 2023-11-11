@@ -19,6 +19,9 @@ src="https://img.shields.io/twitter/follow/4hmadou_5?logo=twitter&style=for-the-
 /></a><a href="https://www.github.com/ahmadou5" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/ahmadou5?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
+
+[![An image of @ahmadou5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ahmadou5)](https://holopin.io/@ahmadou5)
+
 ### Skills
 
 <p align="left">

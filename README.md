@@ -1,7 +1,7 @@
 Hi 👋 My name is Ahmad Auwal
 ============================
 
-Solidity Blockchain Developer
+Web3  Blockchain Developer (solana & EVM)
 --------------
 
 i take code as a hobby, !drink Coffee , i love VsCode
@@ -9,7 +9,7 @@ i take code as a hobby, !drink Coffee , i love VsCode
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [Ahmadou\`s Portfolio](http://ahmadou.vercel.app)
 * ✉️  You can contact me at [ahmadlasauwal@gmail.com](mailto:ahmadlasauwal@gmail.com)
-* 🚀  I'm currently working on [PizzaDao](http://dev-Ahmadou.netlify.app)
+* 🚀  I'm currently working on [InFuseWallet](https://infusewallet.xyz)
 * 🧠  I'm learning Typescript,Nextjs
 * 🤝  I'm open to collaborating on Open source, Web3 Projects
 * ⚡  i still don't know how to center a div tell no one.
